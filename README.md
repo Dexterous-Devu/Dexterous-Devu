@@ -1,7 +1,7 @@
 Hi 👋 My name is Devanshu
 =========================
 
-\# Coder, Researcher, seeker, Entrepreneur
+\# Coder, Researcher, Seeker, Entrepreneur
 ------------------------------------------
 
 * 🌍  I'm based in Delhi, India
