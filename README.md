@@ -12,7 +12,7 @@ Hi 👋 My name is Devanshu
 
 <a href="https://www.twitter.com/dexterous_Devu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/dexterous_Devu?logo=twitter&style=for-the-badge&color=10b981&labelColor=000000"
-/></a><a href="https://www.github.com/Dexterous-Devu" target="_blank" rel="noreferrer"><img
+/></a>   <a href="https://www.github.com/Dexterous-Devu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Dexterous-Devu?logo=github&style=for-the-badge&color=10b981&labelColor=000000" /></a>
 
 ### Skills
